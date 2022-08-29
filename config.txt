@@ -11,7 +11,7 @@
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "TiAn",
+"weather_key": "af4a64d6e6fd4a6ca078115cd162c31c",
 # 天行数据apikey
 "tian_api": "31abd90127a1e14ddba476da693e66a7 ",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
